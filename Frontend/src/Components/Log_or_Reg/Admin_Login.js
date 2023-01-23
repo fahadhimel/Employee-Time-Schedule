@@ -87,7 +87,7 @@ const Admin_Login = () => {
                     <input
                         required
                         className="fast"
-                        type="current-password"
+                        type="password"
                         placeholder="Password"
                         name='Password'
                         value={Password}
