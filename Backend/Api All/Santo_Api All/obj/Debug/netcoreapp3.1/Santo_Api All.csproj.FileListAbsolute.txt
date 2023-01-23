@@ -1,0 +1,71 @@
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.AssemblyReference.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.GeneratedMSBuildEditorConfig.editorconfig
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.AssemblyInfoInputs.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.AssemblyInfo.cs
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.CoreCompileInputs.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.MvcApplicationPartsAssemblyInfo.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.exe
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.deps.json
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.runtimeconfig.json
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.runtimeconfig.dev.json
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.pdb
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\Santo_Api All.StaticWebAssets.Manifest.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.RazorTargetAssemblyInfo.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.CopyComplete
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.dll
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.pdb
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.genruntimeconfig.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.StaticWebAssets.xml
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\Santo_Api All.StaticWebAssets.Pack.cache
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Santo_Api All.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Santo_Api All.props
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Santo_Api All.props
+D:\Santo dada Project\Santo_Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Santo_Api All.props
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.exe
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.deps.json
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.runtimeconfig.json
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.runtimeconfig.dev.json
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Santo_Api All.pdb
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.AssemblyReference.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.GeneratedMSBuildEditorConfig.editorconfig
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.AssemblyInfoInputs.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.AssemblyInfo.cs
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.CoreCompileInputs.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.MvcApplicationPartsAssemblyInfo.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\Santo_Api All.StaticWebAssets.Manifest.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\Santo_Api All.StaticWebAssets.Pack.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Santo_Api All.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Santo_Api All.props
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Santo_Api All.props
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Santo_Api All.props
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.RazorTargetAssemblyInfo.cache
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.csproj.CopyComplete
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.dll
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.pdb
+D:\Santo dada Project\Employee-Time-Schedule\Backend\Api All\Santo_Api All\obj\Debug\netcoreapp3.1\Santo_Api All.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+.BtnStyle {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.Btnn {
+    position: relative;
+    margin: 0 20px;
+    color: #fff;
+    
+    
+}
+.Btnn:hover{
+    filter: brightness(90%);
+    color: #fff;
+}
